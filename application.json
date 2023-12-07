@@ -2,11 +2,11 @@
   "pages": [
     {
       "id": "base",
-      "isDefault": false
+      "isDefault": true
     },
     {
       "id": "Student_stock_resume",
-      "isDefault": true
+      "isDefault": false
     },
     {
       "id": "Student_results Copy",
