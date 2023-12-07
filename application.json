@@ -3,6 +3,10 @@
     {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "SE_edit_stock",
+      "isDefault": false
     }
   ],
   "viewMode": false,
