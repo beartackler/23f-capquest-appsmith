@@ -62,7 +62,7 @@
     "columnUpdatedAt": 1701980065336,
     "defaultSelectedRowIndices": [0],
     "mobileBottomRow": 41,
-    "widgetName": "Table1",
+    "widgetName": "internship",
     "defaultPageSize": 0,
     "columnOrder": [
         "company_id",
@@ -83,7 +83,7 @@
     "borderWidth": "1",
     "primaryColumns": {
         "company_id": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"company_id\"]))}}",
+            "computedValue": "{{internship.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"company_id\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "company_id",
@@ -114,7 +114,7 @@
             "verticalAlignment": "CENTER"
         },
         "internship_id": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"internship_id\"]))}}",
+            "computedValue": "{{internship.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"internship_id\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "internship_id",
@@ -145,7 +145,7 @@
             "verticalAlignment": "CENTER"
         },
         "name": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"name\"]))}}",
+            "computedValue": "{{internship.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"name\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "name",
@@ -176,7 +176,7 @@
             "verticalAlignment": "CENTER"
         },
         "description": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"description\"]))}}",
+            "computedValue": "{{internship.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"description\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "description",
@@ -207,7 +207,7 @@
             "verticalAlignment": "CENTER"
         },
         "url": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"url\"]))}}",
+            "computedValue": "{{internship.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"url\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "url",
