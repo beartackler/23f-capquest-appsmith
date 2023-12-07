@@ -11,6 +11,10 @@
     {
       "id": "Student_results Copy",
       "isDefault": false
+    },
+    {
+      "id": "employer",
+      "isDefault": false
     }
   ],
   "viewMode": false,
