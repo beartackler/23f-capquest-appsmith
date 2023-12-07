@@ -1,11 +1,15 @@
 {
   "pages": [
     {
-      "id": "Student_results",
+      "id": "base",
       "isDefault": true
     },
     {
       "id": "Student_stock_resume",
+      "isDefault": false
+    },
+    {
+      "id": "Student_results Copy",
       "isDefault": false
     }
   ],

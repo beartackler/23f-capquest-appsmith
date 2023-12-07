@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Student_results",
-    "slug": "student-results",
+    "name": "Student_results Copy",
+    "slug": "student-results-copy",
     "layouts": [
       {
         "viewMode": false,
@@ -29,7 +29,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Student_results_get_internships",
+              "id": "Student_results Copy_get_internships",
               "name": "get_internships",
               "confirmBeforeExecute": false,
               "pluginType": "API",
@@ -39,7 +39,7 @@
           ],
           [
             {
-              "id": "Student_results_get_simres",
+              "id": "Student_results Copy_get_simres",
               "name": "get_simres",
               "confirmBeforeExecute": false,
               "pluginType": "API",
@@ -52,7 +52,7 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Student_results",
+        "id": "Student_results Copy",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -63,5 +63,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "65711fac4dc8cb4f358625ee_65711fac4dc8cb4f358625f0"
+  "gitSyncId": "657123b64dc8cb4f35862601_65720c0fa034492eca27d854"
 }
