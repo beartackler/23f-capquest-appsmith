@@ -61,7 +61,7 @@
     },
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "columnUpdatedAt": 1701972499990,
-    "originalBottomRow": 118,
+    "originalBottomRow": 106,
     "defaultSelectedRowIndices": [0],
     "mobileBottomRow": 66,
     "widgetName": "All_Stocks",
@@ -288,7 +288,7 @@
     "horizontalAlignment": "LEFT",
     "isVisibleSearch": true,
     "responsiveBehavior": "fill",
-    "originalTopRow": 82,
+    "originalTopRow": 70,
     "mobileLeftColumn": 0,
     "isVisiblePagination": true,
     "verticalAlignment": "CENTER"
