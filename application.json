@@ -3,22 +3,6 @@
     {
       "id": "Page1",
       "isDefault": true
-    },
-    {
-      "id": "ben",
-      "isDefault": false
-    },
-    {
-      "id": "amaya",
-      "isDefault": false
-    },
-    {
-      "id": "crystal",
-      "isDefault": false
-    },
-    {
-      "id": "brady",
-      "isDefault": false
     }
   ],
   "viewMode": false,
