@@ -1,8 +1,12 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "Student_results",
       "isDefault": true
+    },
+    {
+      "id": "Student_stock_resume",
+      "isDefault": false
     }
   ],
   "viewMode": false,
