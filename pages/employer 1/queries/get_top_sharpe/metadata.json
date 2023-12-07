@@ -2,12 +2,12 @@
   "pluginType": "API",
   "pluginId": "restapi-plugin",
   "unpublishedAction": {
-    "name": "get_internships",
+    "name": "get_top_sharpe",
     "datasource": {
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
-        "url": "web:4000/internships/internships_available"
+        "url": "web:4000/simulation_results/simulation_results/topsharpe"
       },
       "invalids": [],
       "messages": [],
@@ -16,7 +16,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "student_results",
+    "pageId": "employer 1",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -36,7 +36,7 @@
         "apiContentType": "none"
       }
     },
-    "executeOnLoad": false,
+    "executeOnLoad": true,
     "dynamicBindingPathList": [],
     "isValid": true,
     "invalids": [],
@@ -47,7 +47,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "student_results_get_internships",
+  "id": "employer 1_get_top_sharpe",
   "deleted": false,
-  "gitSyncId": "65712e3a0d0726361c599cb8_65721f7b9bc8c0011234e3f4"
+  "gitSyncId": "65711fac4dc8cb4f358625ee_657222c0a034492eca27d8c8"
 }

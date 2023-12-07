@@ -19,6 +19,14 @@
     {
       "id": "student_results",
       "isDefault": false
+    },
+    {
+      "id": "employer 1",
+      "isDefault": false
+    },
+    {
+      "id": "employer 2",
+      "isDefault": false
     }
   ],
   "viewMode": false,
