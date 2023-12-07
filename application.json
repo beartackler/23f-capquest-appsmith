@@ -7,6 +7,10 @@
     {
       "id": "SE_edit_stock",
       "isDefault": false
+    },
+    {
+      "id": "SE_edit_simulation",
+      "isDefault": false
     }
   ],
   "viewMode": false,
